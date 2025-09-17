@@ -1,70 +1,131 @@
-# Getting Started with Create React App
+# 청년-기업 실무 교류를 위한 단기 프로젝트 매칭 서비스 웹 플랫폼
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://img.shields.io/badge/React-18.0-blue?logo=react" /> 
+<img src="https://img.shields.io/badge/SpringBoot-3.4.4-green?logo=springboot" /> 
+<img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql" />
+<img src="https://img.shields.io/badge/Redux-Toolkit-purple?logo=redux" />
+<img src="https://img.shields.io/badge/JWT-Auth-orange" />
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 프로젝트 개요
 
-### `npm start`
+**개발 기간** : 2025/03 ~ 2025/07  
+**프로젝트 목표** :  
+- 학생은 **실무 경험**을 쌓고 **포트폴리오**를 만들 수 있음  
+- 기업은 **잠재적 인재를 테스트 및 발굴**할 수 있는 실질적 교류의 장 제공  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 👥 팀 구성
 
-### `npm test`
+| Name   | Position | GitHub / Blog |
+|--------|----------|----------------|
+| 표선영 | FE (팀장) | [GitHub]() |
+| 김주은 | FE | [GitHub]() |
+| 강전하 | FE | [GitHub]() |
+| 김진태 | BE | [GitHub]() |
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🔧 기술 스택
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Frontend
+- HTML, CSS, JavaScript, React, Redux Toolkit, Axios
+- React-Toastify, Formik, Yup, Framer Motion
+- React-Select, React-Daum-Postcode
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Backend
+- Spring Boot, Spring Security
+- Spring Data JPA, MySQL
+- JWT, SSE, Gemini API
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Collaboration & Tools
+- Git, GitHub, Notion, Figma, Postman, VS Code, IntelliJ, Draw.io
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🌐 배포 / 외부 링크
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Notion 전체 문서** : [노션 바로가기](https://www.notion.so/1b487aecf1708010a97efba95f28007e?pvs=21)  
+- **시연 영상 (YouTube)** : [보러가기](https://www.youtube.com/watch?v=EwVfLDis304)  
+- **GitHub Repo**
+  - [Frontend]()
+  - [Backend]()
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📒 화면 구성
 
-## Learn More
+### 회원가입 & 로그인
+| 개인 회원가입 | 기업 회원가입 | 로그인 |
+|---------------|---------------|--------|
+| ![](./assets/signup_user.png) | ![](./assets/signup_company.png) | ![](./assets/login.gif) |
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 마이페이지
+| 지원한 프로젝트 | 이력서 관리 |
+|----------------|------------|
+| ![](./assets/mypage_apply.png) | ![](./assets/mypage_resume.png) |
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 이력서 등록
+![](./assets/resume_upload.png)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### AI 프로젝트 매칭
+![](./assets/ai_matching.gif)
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### 관리자 페이지
+![](./assets/admin.gif)
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### 커뮤니티
+| 게시글 CRUD | 태그 & 페이징 | 댓글 |
+|-------------|---------------|------|
+| ![](./assets/community_crud.gif) | ![](./assets/community_tags.gif) | ![](./assets/community_comment.gif) |
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🧑‍💻 주요 기능
 
-### `npm run build` fails to minify
+- 회원 관리
+  - 기업/일반 회원가입, JWT 로그인/로그아웃/재발급, 마이페이지
+  - Redux Toolkit + React-Toastify로 전역 상태 기반 알림 처리
+- 프로젝트
+  - 공고 작성, 지원, 지원자 선정, 스크랩 신청
+- 이력서
+  - 등록, 수정, 삭제 (사진 미리보기 + FormData 전송)
+- AI 매칭
+  - 이력서 기반 프로젝트 공고 추천
+  - 로딩 UI + 매칭 점수 내림차순 정렬 표시
+- 커뮤니티
+  - 게시글 CRUD, 댓글 CRUD, 태그 기반 필터링 & 페이징
+- 관리자
+  - 기업 회원가입 승인/거절 (PATCH 요청 기반 성능 최적화)
+- 알림 (작업 중)
+  - SSE 기반 실시간 알림 구현 예정
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## ⚡ 트러블슈팅 & 배운 점
+
+- **Toast 메시지 중복 출력**  
+  → Toast 닫힘 이벤트에서 Redux 상태 초기화 추가로 해결
+- **이력서 업로드 실패**  
+  → JSON+이미지를 단일 객체 전송 → `FormData + Blob`으로 분리 전송 후 해결
+- **댓글 중복/비정상 출력**  
+  → 게시글별 댓글 상태를 `commentsByBoardId`로 관리하여 해결
+- **AI 매칭 UX 개선**  
+  → 단순 대기 대신 진행중 메시지/애니메이션 추가
+
+---
+
+## 📂 디렉토리 구조 (예시)
+
