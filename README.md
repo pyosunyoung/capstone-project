@@ -16,10 +16,10 @@
 
 | Name   | Position | GitHub / Blog |
 |--------|----------|----------------|
-| 표선영 | FE (팀장) | [GitHub]() |
+| 김진태 | BE(팀장) | [GitHub]() |
+| 표선영 | FE | [GitHub]() |
 | 김주은 | FE | [GitHub]() |
 | 강전하 | FE | [GitHub]() |
-| 김진태 | BE | [GitHub]() |
 
 ---
 
@@ -55,7 +55,7 @@
 ### 회원가입 & 로그인
 | 개인 회원가입 | 기업 회원가입 | 로그인 |
 |---------------|---------------|--------|
-| ![](./assets/signup_user.png) | ![](./assets/signup_company.png) | ![](./assets/login.gif) |
+| ![image]("https://github.com/user-attachments/assets/d4893de7-ee2f-43a5-9324-9eb2f7efe0fc") | ![](./assets/signup_company.png) | ![](./assets/login.gif) |
 
 ---
 
