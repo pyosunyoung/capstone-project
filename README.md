@@ -59,15 +59,15 @@
 
 ### 회원가입 & 로그인
 | 개인 회원가입 | 기업 회원가입 | 로그인 |
-|---------------|---------------|------------|
+|---------------|---------------|-------|
 |<img width="801" height="916" alt="Image" src="https://github.com/user-attachments/assets/4a9fd9d3-2bf4-479b-9f3b-1fda04bf43ba" />  | <img width="656" height="922" alt="Image" src="https://github.com/user-attachments/assets/583d131a-c82b-4460-9e41-72ff3eef6204" /> | <img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/d4893de7-ee2f-43a5-9324-9eb2f7efe0fc" /> |
 
 ---
 
 ### 마이페이지
-| 지원한 프로젝트 | 이력서 관리 | 이력서 관리 | 이력서 관리 |
-|----------------|------------|
-| ![](./assets/mypage_apply.png) | ![](./assets/mypage_resume.png) |
+| 지원한 프로젝트 | 이력서 관리 | 이력서 AI 매칭 | 스크랩한 프로젝트 |
+|----------------|------------|------------|------------|
+| <img width="1704" height="802" alt="Image" src="https://github.com/user-attachments/assets/667e6ff8-f111-43a2-a73a-206db4211c1c" /> | <img width="1577" height="795" alt="Image" src="https://github.com/user-attachments/assets/720654d4-718b-4b1c-96d8-b5a6da43144b" /> | <img width="1579" height="809" alt="Image" src="https://github.com/user-attachments/assets/2783a9d8-eb47-48da-abf3-0be67e01cfc0" /> | <img width="1728" height="826" alt="Image" src="https://github.com/user-attachments/assets/b437c27c-2ffd-4728-90b3-1f2251de8550" /> |
 
 ---
 
