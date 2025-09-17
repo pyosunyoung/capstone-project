@@ -76,8 +76,14 @@
 
 ---
 
-### AI 프로젝트 매칭
-![](./assets/ai_matching.gif)
+### AI 프로젝트 매칭(부트스트랩)
+|이력서 AI 매칭 | 매칭 기간 선택 |
+|-------------|---------------|
+| <img width="1579" height="809" alt="Image" src="https://github.com/user-attachments/assets/8fcdef78-59ba-4260-b4b1-c6dc38784baa" /> | <img width="1615" height="803" alt="Image" src="https://github.com/user-attachments/assets/b8fb8db3-bd6c-4aba-97b6-39b24b8811c2" />|
+
+| 로딩창 | AI 매칭 결과 |
+|-------------|---------------|
+|<img width="1590" height="886" alt="Image" src="https://github.com/user-attachments/assets/a012ddfa-a592-494b-b7b0-57e1407b90d2" /> | <img width="486" height="885" alt="Image" src="https://github.com/user-attachments/assets/771e0d34-988f-4294-86fa-d55659e3f93f" />|
 
 ---
 
