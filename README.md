@@ -72,7 +72,7 @@
 ---
 
 ### 이력서 등록
-![](./assets/resume_upload.png)
+<img width="579" height="793" alt="Image" src="https://github.com/user-attachments/assets/df22afc7-72b6-412c-b5bc-0caf1e6c9501" />
 
 ---
 
