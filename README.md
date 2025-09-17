@@ -60,7 +60,7 @@
 ### 회원가입 & 로그인
 | 개인 회원가입 | 기업 회원가입 | 로그인 |
 |---------------|---------------|--------|
-|<img width="801" height="916" alt="Image" src="https://github.com/user-attachments/assets/4a9fd9d3-2bf4-479b-9f3b-1fda04bf43ba" />  | <img width="656" height="922" alt="Image" src="https://github.com/user-attachments/assets/583d131a-c82b-4460-9e41-72ff3eef6204" /> | <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/d4893de7-ee2f-43a5-9324-9eb2f7efe0fc" /> |
+|<img width="801" height="916" alt="Image" src="https://github.com/user-attachments/assets/4a9fd9d3-2bf4-479b-9f3b-1fda04bf43ba" />  | <img width="656" height="922" alt="Image" src="https://github.com/user-attachments/assets/583d131a-c82b-4460-9e41-72ff3eef6204" /> | <img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/d4893de7-ee2f-43a5-9324-9eb2f7efe0fc" /> |
 
 ---
 
