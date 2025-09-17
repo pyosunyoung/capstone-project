@@ -52,6 +52,11 @@
 
 ## 📒 화면 구성
 
+### 메인페이지
+<img width="1904" height="936" alt="Image" src="https://github.com/user-attachments/assets/f6167ba9-30c0-4f3b-9798-ed26eceb8ef7" />
+
+---
+
 ### 회원가입 & 로그인
 | 개인 회원가입 | 기업 회원가입 | 로그인 |
 |---------------|---------------|--------|
