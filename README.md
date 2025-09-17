@@ -1,10 +1,5 @@
-# 청년-기업 실무 교류를 위한 단기 프로젝트 매칭 서비스 웹 플랫폼
-
-<img src="https://img.shields.io/badge/React-18.0-blue?logo=react" /> 
-<img src="https://img.shields.io/badge/SpringBoot-3.4.4-green?logo=springboot" /> 
-<img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql" />
-<img src="https://img.shields.io/badge/Redux-Toolkit-purple?logo=redux" />
-<img src="https://img.shields.io/badge/JWT-Auth-orange" />
+# JMP
+<img width="2364" height="1130" alt="Image" src="https://github.com/user-attachments/assets/f396f0d2-aa4f-4932-94d7-a4c658107053" />
 
 ---
 
