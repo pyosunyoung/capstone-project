@@ -82,14 +82,18 @@
 ---
 
 ### 관리자 페이지
-![](./assets/admin.gif)
+<img width="1880" height="902" alt="Image" src="https://github.com/user-attachments/assets/ec0e8f7e-05e2-4d86-9315-aa22bf0c01cc" />
 
 ---
 
 ### 커뮤니티
-| 게시글 CRUD | 태그 & 페이징 | 댓글 |
-|-------------|---------------|------|
-| ![](./assets/community_crud.gif) | ![](./assets/community_tags.gif) | ![](./assets/community_comment.gif) |
+| 메인페이지 | 게시글 생성 | 게시글 디테일 페이지 |
+|-------------|---------------|---------------|
+| <img width="1879" height="799" alt="Image" src="https://github.com/user-attachments/assets/044f41a4-143c-40ef-9962-c7772f25a6bc" /> | <img width="1880" height="910" alt="Image" src="https://github.com/user-attachments/assets/69c30828-03bd-4448-96c0-0c209a494931" />|<img width="657" height="813" alt="Image" src="https://github.com/user-attachments/assets/77f2332b-8d97-4748-8757-c575899a8a18" />|
+
+| 내가 작성한 글 | 댓글 |
+|-------------|---------------|
+| <img width="1576" height="792" alt="Image" src="https://github.com/user-attachments/assets/8a1c9eb7-cef3-4068-98d7-985ee3081685" /> | <img width="1729" height="830" alt="Image" src="https://github.com/user-attachments/assets/d975f245-c17c-481c-98d1-0f3faeb4573a" />|
 
 ---
 
@@ -114,7 +118,7 @@
 
 ---
 
-## ⚡ 트러블슈팅 & 배운 점
+## ⚡ 트러블슈팅
 
 - **Toast 메시지 중복 출력**  
   → Toast 닫힘 이벤트에서 Redux 상태 초기화 추가로 해결
