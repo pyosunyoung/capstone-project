@@ -50,7 +50,6 @@
 
 ---
 
----
 
 ## 🧑‍💻 주요 기능
 
@@ -94,7 +93,7 @@
 ### 메인페이지
 <img width="1904" height="936" alt="Image" src="https://github.com/user-attachments/assets/f6167ba9-30c0-4f3b-9798-ed26eceb8ef7" />
 <img width="1741" height="784" alt="Image" src="https://github.com/user-attachments/assets/df4a92fc-a6c8-46b0-befb-dc299261be4b" />
----
+
 
 ### 회원가입 & 로그인
 | 개인 회원가입 | 기업 회원가입 | 로그인 |
