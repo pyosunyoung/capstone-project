@@ -48,7 +48,7 @@ Job + Middleware + Platform = JMP
 
 ## 🌐 외부 링크
 
-- **Notion 전체 문서** : [노션 바로가기](https://www.notion.so/1b487aecf1708010a97efba95f28007e?pvs=21)
+- **Notion 팀 문서** : [노션 바로가기](https://www.notion.so/1b487aecf1708010a97efba95f28007e?pvs=21)
 - **Notion 개인 기여 문서** : [노션 바로가기](https://www.notion.so/JMP-270fbb5624cd80eca9f6ef50f3b11e9a)  
 - **시연 영상 (YouTube)** : [보러가기](https://www.youtube.com/watch?v=EwVfLDis304)  
 - **GitHub Repo**
